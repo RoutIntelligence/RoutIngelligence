@@ -12,7 +12,7 @@ Ola 👋, me chamo [Filipe]
 
 💼 Saiba mais sobre mim: www.linkedin.com/in/filipe-gonçalves-26833a360
 
-📂 Portfolio: [Clique aqui]( https://github.com/user-attachments/files/24056969/Curriculo.pdf) 
+📂 Portfolio: [Clique aqui]( https://github.com/user-attachments/files/24056969/Currículo.pdf) 
 
 🧰 Projetos [Clique aqui](https://once147.github.io/aaa/)
 
