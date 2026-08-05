@@ -18,7 +18,7 @@ Ola 👋, me chamo [Filipe]
 
 ## Projetos Portfólio
 
-Uma seção de projetos de analise de dados onde descrevo soluções para cada situação.
+Uma seção de projetos de analise de dados onde descrevo brevemente soluções para cada situação.
 
 
 
