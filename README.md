@@ -34,7 +34,7 @@ Code:[SuperStore](https://github.com/once147/SuperStore/blob/main/superStore.ipy
 
 **Resultado:** Limepeza total nos valores nulos,outliers e correções de texto junto com gráficos com suas tendências de produtos de cada mês e ano, KPIs e categorias por produtos.
 
-
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
