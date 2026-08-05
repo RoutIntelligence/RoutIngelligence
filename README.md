@@ -35,7 +35,15 @@ Code:[SuperStore](https://github.com/once147/SuperStore/blob/main/superStore.ipy
 **Resultado:** Limepeza total nos valores nulos,outliers e correções de texto junto com gráficos com suas tendências de produtos de cada mês e ano, KPIs e categorias por produtos.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Gerenciamento de Dados
 
+**Objetivo:** Compreensão rápida na visualização de dados
+
+**Descrição:** Projeto como objetivo realizar analises no Gerenciamento de Dados de forma interativa e de fácil compreensão.
+
+Skills: DAX,
+
+**Resultado:** Total Geral De Vendas, Faturamento, Ticket Médio, Custo Unitário, Margem de Lucro, KPIs e entre outros.
 
 
 
