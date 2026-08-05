@@ -20,5 +20,22 @@ Ola 👋, me chamo [Filipe]
 
 Uma seção de projetos de analise de dados onde descrevo brevemente soluções para cada situação.
 
+# SuperStore
+Code:[SuperStore](https://github.com/once147/SuperStore/blob/main/superStore.ipynb)
+
+Objetivo: Limpeza de dados
+
+Descrição: Um Projeto focado em limpeza de dados e uma análise abrangente do conjunto de dados da Superstore, com foco no desempenho de vendas, lucratividade, segmentos de clientes, categorias de produtos, modalidades de envio e tendências regionais de 2014 a 2017.
+
+Skills: Manipulação e limpeza de dados, visualização de dados, visão analítica, análise exploratória de dados e análise de métricas de negócio
+
+Tecnologias: Python, Pandas, NumPy, Matplotlib, Seaborn
+
+Resultado: Limepeza total nos valores nulos,outliers e correções de texto junto com gráficos com suas tendências de produtos de cada mês e ano, KPIs e categorias por produtos.
+
+
+
+
+
 
 
