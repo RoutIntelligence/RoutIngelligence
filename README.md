@@ -41,7 +41,7 @@ Code:[SuperStore](https://github.com/once147/SuperStore/blob/main/superStore.ipy
 
 **Descrição:** Projeto como objetivo realizar analises no Gerenciamento de Dados de forma interativa e de fácil compreensão.
 
-Skills: DAX,
+**Skills**: DAX,
 
 **Resultado:** Total Geral De Vendas, Faturamento, Ticket Médio, Custo Unitário, Margem de Lucro, KPIs e entre outros.
 
