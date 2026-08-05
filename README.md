@@ -20,8 +20,10 @@ Ola 👋, me chamo [Filipe]
 
 Uma seção de projetos de analise de dados onde descrevo brevemente soluções para cada situação.
 
+
 # SuperStore
 Code:[SuperStore](https://github.com/once147/SuperStore/blob/main/superStore.ipynb)
+
 
 Objetivo: Limpeza de dados
 
