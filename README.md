@@ -36,6 +36,7 @@ Code:[SuperStore](https://github.com/once147/SuperStore/blob/main/superStore.ipy
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Gerenciamento de Dados
+Code:[Gerenciamento de Dados](https://sites.google.com/view/portifoliopwbi/in%C3%ADcio)
 
 **Objetivo:** Compreensão rápida na visualização de dados
 
@@ -49,6 +50,7 @@ Code:[SuperStore](https://github.com/once147/SuperStore/blob/main/superStore.ipy
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Store
+Code:[Store](https://github.com/once147/SuperStore/blob/master/Procedure.sql)
 
 **Objetivo:** Otimização de dados
 
