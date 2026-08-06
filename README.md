@@ -24,7 +24,7 @@ Uma seção de projetos de analise de dados onde descrevo brevemente soluções 
 ### SuperStore
 Code: [SuperStore](https://github.com/once147/SuperStore/blob/main/superStore.ipynb)
 
-**Objetivo:** Limpeza de dados
+**Objetivo:** Limpeza de dados, Têndencias
 
 **Descrição:** Um Projeto focado em limpeza de dados e uma análise abrangente do conjunto de dados da Superstore, com foco no desempenho de vendas, lucratividade, segmentos de clientes, categorias de produtos, modalidades de envio e tendências regionais de 2014 a 2017.
 
