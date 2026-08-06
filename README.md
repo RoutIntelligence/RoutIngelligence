@@ -57,7 +57,9 @@ Code:[SuperStore](https://github.com/once147/SuperStore/blob/main/superStore.ipy
 
 **Tecnologias:** SQL
 
-**Resultado:
+**Resultado:**  Automação e Otimização de grandes processos repetitivos e compreensão das relações entre tabelas de vendas, clientes, produtos e pedidos do dataset.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 
 
