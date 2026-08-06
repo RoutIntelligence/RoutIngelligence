@@ -41,9 +41,23 @@ Code:[SuperStore](https://github.com/once147/SuperStore/blob/main/superStore.ipy
 
 **Descrição:** Projeto como objetivo realizar analises no Gerenciamento de Dados de forma interativa e de fácil compreensão.
 
-**Skills**: DAX,
+**Skills:** DAX, Storytelling
+
+**Tecnologias:** Power BI
 
 **Resultado:** Total Geral De Vendas, Faturamento, Ticket Médio, Custo Unitário, Margem de Lucro, KPIs e entre outros.
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------### Store
+
+**Objetivo:** Otimização de dados
+
+**Descrição:** Um Projeto focado na gestão de clientes e estoque de produtos.
+
+**Skills:** Stored Procedures ,DML,  Otimização de dados ,Agregações, Joins e Filtros Dinâmicos.
+
+**Tecnologias:** SQL
+
+**Resultado:
 
 
 
