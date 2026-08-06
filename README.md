@@ -22,7 +22,7 @@ Uma seção de projetos de analise de dados onde descrevo brevemente soluções 
 
 
 ### SuperStore
-Code:[SuperStore](https://github.com/once147/SuperStore/blob/main/superStore.ipynb)
+Code: [SuperStore](https://github.com/once147/SuperStore/blob/main/superStore.ipynb)
 
 **Objetivo:** Limpeza de dados
 
@@ -36,7 +36,7 @@ Code:[SuperStore](https://github.com/once147/SuperStore/blob/main/superStore.ipy
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Gerenciamento de Dados
-Code:[Gerenciamento de Dados](https://sites.google.com/view/portifoliopwbi/in%C3%ADcio)
+Code: [Gerenciamento de Dados](https://sites.google.com/view/portifoliopwbi/in%C3%ADcio)
 
 **Objetivo:** Compreensão rápida na visualização de dados
 
@@ -50,7 +50,7 @@ Code:[Gerenciamento de Dados](https://sites.google.com/view/portifoliopwbi/in%C3
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Store
-Code:[Store](https://github.com/once147/SuperStore/blob/master/Procedure.sql)
+Code: [Store](https://github.com/once147/SuperStore/blob/master/Procedure.sql)
 
 **Objetivo:** Otimização de dados
 
