@@ -28,7 +28,7 @@ Code: [SuperStore](https://github.com/once147/SuperStore/blob/main/superStore.ip
 
 **Descrição:** Um Projeto focado em limpeza de dados e uma análise abrangente do conjunto de dados da Superstore, com foco no desempenho de vendas, lucratividade, segmentos de clientes, categorias de produtos, modalidades de envio e tendências regionais de 2014 a 2017.
 
-**Skills:** Manipulação e limpeza de dados, visualização de dados, visão analítica, análise exploratória de dados e análise de métricas de negócio
+**Skills:** Manipulação e Limpeza de dados, Visualização de dados, Visão analítica, Análise exploratória de dados e Análise de métricas de negócio
 
 **Tecnologias:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
@@ -56,14 +56,25 @@ Code: [Store](https://github.com/once147/SuperStore/blob/master/Procedure.sql)
 
 **Descrição:** Um Projeto focado na gestão de clientes e estoque de produtos.
 
-**Skills:** Stored Procedures ,DML,  Otimização de dados ,Agregações, Joins e Filtros Dinâmicos.
+**Skills:** Stored Procedures ,DML,  Otimização de Dados ,Agregações, Joins e Filtros Dinâmicos.
 
 **Tecnologias:** SQL
 
-**Resultado:**  Automação e Otimização de grandes processos repetitivos e compreensão das relações entre tabelas de vendas, clientes, produtos e pedidos do dataset.
+**Resultado:**  Automação e Otimização de grandes processos repetitivos e Compreensão das relações entre tabelas de vendas, Clientes, Produtos e Pedidos do dataset.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Give_Some_Credit
+Code: [Credit](https://github.com/once147/Projeto--Give-Me-Some-Credit-/blob/main/Banco.ipynb)
 
+**Objetivo:** Analise exploratória, Limpeza de dados
+
+**Descrição:** Projeto com foco na limpeza de dados e análise exploratória, buscando entender a distribuição de cada coluna.
+
+**Skills:** Identificação de problemas nos dados ,Manipulação ,Visualização de Dados, Análise exploratória , Técnicas de tratamento , Validação cruzada entre colunas. 
+
+**Tecnologias:**  Python, Pandas , Numpy
+
+**Resultado:**  
 
 
 
