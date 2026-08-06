@@ -47,7 +47,8 @@ Code:[SuperStore](https://github.com/once147/SuperStore/blob/main/superStore.ipy
 
 **Resultado:** Total Geral De Vendas, Faturamento, Ticket Médio, Custo Unitário, Margem de Lucro, KPIs e entre outros.
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------### Store
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Store
 
 **Objetivo:** Otimização de dados
 
