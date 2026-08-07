@@ -90,4 +90,4 @@ Code: [Credit](https://github.com/once147/Projeto--Give-Me-Some-Credit-/blob/mai
 
 **Tecnologias:** SQL,Power BI
 
-**Resultado:** Identificado que estudantes com experiência prévia de trabalho possuem salário médio ~2,1% maior; especialização em Science apresenta maior salário médio, enquanto Commerce tem maior volume de colocados; desempenho  acadêmico mais alto (1º ano, 3º ano e MBA) está associado a maior taxa de colocação no mercado e Top 10 maiores salários por gênero.
+**Resultado:** Identificado que estudantes com experiência prévia de trabalho possuem salário médio ~2,1% maior; especialização em Science apresenta maior salário médio, enquanto Commerce tem maior volume de colocados; desempenho  acadêmico mais alto (1º ano, 3º ano e MBA) está associado a maior taxa de colocação no mercado e Top 10 maiores salários por gênero. Junto com um painel interativo do Power BI.
