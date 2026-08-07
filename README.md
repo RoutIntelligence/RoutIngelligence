@@ -28,7 +28,7 @@ Code: [SuperStore](https://github.com/once147/SuperStore/blob/main/superStore.ip
 
 **Descrição:** Um Projeto focado em limpeza de dados e uma análise abrangente do conjunto de dados da Superstore, com foco no desempenho de vendas, lucratividade, segmentos de clientes, categorias de produtos, modalidades de envio e tendências regionais de 2014 a 2017.
 
-**Skills:** Manipulação e Limpeza de dados, Visualização de dados, Visão analítica, Análise exploratória de dados e Análise de métricas de negócio
+**Skills:** Manipulação e Limpeza de dados, Visualização de dados, Visão analítica, Análise exploratória de dados e Análise de métricas de negócio.
 
 **Tecnologias:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
@@ -42,7 +42,7 @@ Code: [Gerenciamento de Dados](https://sites.google.com/view/portifoliopwbi/in%C
 
 **Descrição:** Projeto como objetivo realizar analises no Gerenciamento de Dados de forma interativa e de fácil compreensão.
 
-**Skills:** DAX, Storytelling
+**Skills:** DAX, Storytelling.
 
 **Tecnologias:** Power BI
 
@@ -78,3 +78,16 @@ Code: [Credit](https://github.com/once147/Projeto--Give-Me-Some-Credit-/blob/mai
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### Campus Recruit
+
+**Code:** [Campus Recruit](https://github.com/once147/Campus-Recruit)
+
+**Objetivo:** Identificar quais fatores mais influenciam a colocação e o salário de estudantes num processo seletivo.
+
+**Descrição:** Responde perguntas de um Dataset, falando sobre o histórico escolar de um estudante até sua carreia profissional.
+
+**Skills:** Window functions, Agregações(SUM, AVG, COUNT), Estatística descritiva aplicada e analise de dados.
+
+**Tecnologias:** SQL,Power BI
+
+**Resultado:** Identificado que estudantes com experiência prévia de trabalho possuem salário médio ~2,1% maior; especialização em Science apresenta maior salário médio, enquanto Commerce tem maior volume de colocados; desempenho  acadêmico mais alto (1º ano, 3º ano e MBA) está associado a maior taxa de colocação no mercado e Top 10 maiores salários por gênero.
