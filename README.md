@@ -1,6 +1,6 @@
 
 
-Ola 👋, me chamo [Filipe]
+Ola 👋, me chamo Filipe
 
 🔭 Atualmente estou trabalhando em projetos de análise de dados e dashboards interativos.
 
