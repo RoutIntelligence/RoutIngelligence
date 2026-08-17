@@ -24,7 +24,7 @@ Uma seção de projetos de analise de dados onde descrevo brevemente soluções 
 ### SuperStore
 Code: [SuperStore](https://github.com/once147/SuperStore/blob/main/superStore.ipynb)
 
-**Objetivo:** Limpeza de dados, Têndencias
+**Objetivo:** Limpeza de dados, Tendências
 
 **Descrição:** Um Projeto focado em limpeza de dados e uma análise abrangente do conjunto de dados da Superstore, com foco no desempenho de vendas, lucratividade, segmentos de clientes, categorias de produtos, modalidades de envio e tendências regionais de 2014 a 2017.
 
@@ -32,7 +32,7 @@ Code: [SuperStore](https://github.com/once147/SuperStore/blob/main/superStore.ip
 
 **Tecnologias:** Python, Pandas, NumPy, Matplotlib, Seaborn
 
-**Resultado:** Limepeza total nos valores nulos,outliers e correções de texto junto com gráficos com suas tendências de produtos de cada mês e ano, KPIs e categorias por produtos.
+**Resultado:** Limpeza total nos valores nulos,outliers e correções de texto junto com gráficos com suas tendências de produtos de cada mês e ano, KPIs e categorias por produtos.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Gerenciamento de Dados
@@ -74,7 +74,7 @@ Code: [Credit](https://github.com/once147/Projeto--Give-Me-Some-Credit-/blob/mai
 
 **Tecnologias:**  Python, Pandas , Numpy
 
-**Resultado:**  Correção de valores nulos, outilers e limitadores de valores.
+**Resultado:**  Correção de valores nulos, outliers e limitadores de valores.
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
