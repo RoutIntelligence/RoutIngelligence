@@ -84,7 +84,7 @@ Code: [Credit](https://github.com/once147/Projeto--Give-Me-Some-Credit-/blob/mai
 
 **Objetivo:** Identificar quais fatores mais influenciam a colocação e o salário de estudantes num processo seletivo.
 
-**Descrição:** Responde perguntas de um Dataset, falando sobre o histórico escolar de um estudante até sua carreia profissional.
+**Descrição:** Responder perguntas de um Dataset, falando sobre o histórico escolar de um estudante até sua carreia profissional.
 
 **Skills:** Window functions, Agregações(SUM, AVG, COUNT), Estatística descritiva aplicada e analise de dados.
 
