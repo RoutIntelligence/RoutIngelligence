@@ -26,6 +26,7 @@ Uma seção de projetos de analise de dados onde descrevo brevemente soluções 
 - SQL / Power BI
   - [Campus Recruitment Analysis](https://github.com/seu-usuario/campus-recruit)
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### SuperStore
 Code: [SuperStore](https://github.com/once147/SuperStore/blob/main/superStore.ipynb)
 
