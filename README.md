@@ -22,6 +22,7 @@ Uma seção de projetos de analise de dados onde descrevo brevemente soluções 
 
 - Python
   - [Give Me Some Credit — Análise de Risco de Crédito](https://github.com/seu-usuario/give-me-credit)
+    
 - SQL / Power BI
   - [Campus Recruitment Analysis](https://github.com/seu-usuario/campus-recruit)
 
