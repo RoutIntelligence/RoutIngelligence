@@ -21,7 +21,7 @@ Ola 👋, me chamo Filipe
 Uma seção de projetos de analise de dados onde descrevo brevemente soluções para cada situação.
 
 - SQL / Power BI
-  - [Campus Recruitment Analysis](https://github.com/seu-usuario/campus-recruit)
+  - [Campus Recruitment Analysis](https://github.com/once147/Campus-Recruit)
   - [Store](https://github.com/once147/SuperStore/blob/master/Procedure.sql)
 
 - Python
