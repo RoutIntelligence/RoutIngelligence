@@ -20,9 +20,10 @@ Ola 👋, me chamo Filipe
 
 Uma seção de projetos de analise de dados onde descrevo brevemente soluções para cada situação.
 
-- SQL
-  -[Store](https://github.com/once147/SuperStore/blob/master/Procedure.sql)
-  -[Campus Recruit](https://github.com/once147/Campus-Recruit)
+- Python
+  - [Give Me Some Credit — Análise de Risco de Crédito](https://github.com/seu-usuario/give-me-credit)
+- SQL / Power BI
+  - [Campus Recruitment Analysis](https://github.com/seu-usuario/campus-recruit)
 
 ### SuperStore
 Code: [SuperStore](https://github.com/once147/SuperStore/blob/main/superStore.ipynb)
