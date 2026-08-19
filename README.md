@@ -22,9 +22,14 @@ Uma seção de projetos de analise de dados onde descrevo brevemente soluções 
 
 - SQL / Power BI
   - [Campus Recruitment Analysis](https://github.com/seu-usuario/campus-recruit)
+  - [Store](https://github.com/once147/SuperStore/blob/master/Procedure.sql)
 
 - Python
   - [Give Me Some Credit — Análise de Risco de Crédito](https://github.com/once147/Projeto--Give-Me-Some-Credit-/blob/main/Banco.ipynb)
+  - [SuperStore](https://github.com/once147/SuperStore/blob/main/superStore.ipynb)
+
+- Power BI
+   -[Gerenciamento de Dados](https://sites.google.com/view/portifoliopwbi/in%C3%ADcio)
     
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### SuperStore
