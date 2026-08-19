@@ -92,7 +92,7 @@ Code: [SuperStore](https://github.com/once147/SuperStore/blob/main/superStore.ip
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Gerenciamento de Dados
-**Code:** Gerenciamento de Dados
+**Code:** [Gerenciamento de Dados](https://sites.google.com/view/portifoliopwbi/in%C3%ADcio)
 
 **Objetivo:** Compreensão rápida na visualização de dados
 
