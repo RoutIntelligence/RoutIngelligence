@@ -20,7 +20,9 @@ Ola 👋, me chamo Filipe
 
 Uma seção de projetos de analise de dados onde descrevo brevemente soluções para cada situação.
 
-- ola
+- SQL
+  -[Store](https://github.com/once147/SuperStore/blob/master/Procedure.sql)
+  -[Campus Recruit](https://github.com/once147/Campus-Recruit)
 
 ### SuperStore
 Code: [SuperStore](https://github.com/once147/SuperStore/blob/main/superStore.ipynb)
