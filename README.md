@@ -32,32 +32,20 @@ Uma seção de projetos de analise de dados onde descrevo brevemente soluções 
   - [Gerenciamento de Dados](https://sites.google.com/view/portifoliopwbi/in%C3%ADcio)
     
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### SuperStore
-Code: [SuperStore](https://github.com/once147/SuperStore/blob/main/superStore.ipynb)
+### Campus Recruit
 
-**Objetivo:** Limpeza de dados, Tendências
+**Code:** [Campus Recruit](https://github.com/once147/Campus-Recruit)
 
-**Descrição:** Um Projeto focado em limpeza de dados e uma análise abrangente do conjunto de dados da Superstore, com foco no desempenho de vendas, lucratividade, segmentos de clientes, categorias de produtos, modalidades de envio e tendências regionais de 2014 a 2017.
+**Objetivo:** Identificar quais fatores mais influenciam a colocação e o salário de estudantes num processo seletivo.
 
-**Skills:** Manipulação e Limpeza de dados, Visualização de dados, Visão analítica, Análise exploratória de dados e Análise de métricas de negócio.
+**Descrição:** Responder perguntas de um Dataset, falando sobre o histórico escolar de um estudante até sua carreia profissional.
 
-**Tecnologias:** Python, Pandas, NumPy, Matplotlib, Seaborn
+**Skills:** Window functions, Agregações(SUM, AVG, COUNT), Estatística descritiva aplicada e analise de dados.
 
-**Resultado:** Limpeza total nos valores nulos,outliers e correções de texto junto com gráficos com suas tendências de produtos de cada mês e ano, KPIs e categorias por produtos.
+**Tecnologias:** SQL,Power BI
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Gerenciamento de Dados
-Code: [Gerenciamento de Dados](https://sites.google.com/view/portifoliopwbi/in%C3%ADcio)
+**Resultado:** Identificado que estudantes com experiência prévia de trabalho possuem salário médio ~2,1% maior; especialização em Science apresenta maior salário médio, enquanto Commerce tem maior volume de colocados; desempenho  acadêmico mais alto (1º ano, 3º ano e MBA) está associado a maior taxa de colocação no mercado e Top 10 maiores salários por gênero. Junto com um painel interativo do Power BI.
 
-**Objetivo:** Compreensão rápida na visualização de dados
-
-**Descrição:** Projeto como objetivo realizar analises no Gerenciamento de Dados de forma interativa e de fácil compreensão.
-
-**Skills:** DAX, Storytelling.
-
-**Tecnologias:** Power BI
-
-**Resultado:** Total Geral De Vendas, Faturamento, Ticket Médio, Custo Unitário, Margem de Lucro, KPIs e entre outros.
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Store
@@ -87,18 +75,33 @@ Code: [Credit](https://github.com/once147/Projeto--Give-Me-Some-Credit-/blob/mai
 
 **Resultado:**  Correção de valores nulos, outliers e limitadores de valores.
 
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### SuperStore
+Code: [SuperStore](https://github.com/once147/SuperStore/blob/main/superStore.ipynb)
+
+**Objetivo:** Limpeza de dados, Tendências
+
+**Descrição:** Um Projeto focado em limpeza de dados e uma análise abrangente do conjunto de dados da Superstore, com foco no desempenho de vendas, lucratividade, segmentos de clientes, categorias de produtos, modalidades de envio e tendências regionais de 2014 a 2017.
+
+**Skills:** Manipulação e Limpeza de dados, Visualização de dados, Visão analítica, Análise exploratória de dados e Análise de métricas de negócio.
+
+**Tecnologias:** Python, Pandas, NumPy, Matplotlib, Seaborn
+
+**Resultado:** Limpeza total nos valores nulos,outliers e correções de texto junto com gráficos com suas tendências de produtos de cada mês e ano, KPIs e categorias por produtos.
+
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Campus Recruit
+### Gerenciamento de Dados
+**Code:** Gerenciamento de Dados
 
-**Code:** [Campus Recruit](https://github.com/once147/Campus-Recruit)
+**Objetivo:** Compreensão rápida na visualização de dados
 
-**Objetivo:** Identificar quais fatores mais influenciam a colocação e o salário de estudantes num processo seletivo.
+**Descrição:** Projeto como objetivo realizar analises no Gerenciamento de Dados de forma interativa e de fácil compreensão.
 
-**Descrição:** Responder perguntas de um Dataset, falando sobre o histórico escolar de um estudante até sua carreia profissional.
+**Skills:** DAX, Storytelling.
 
-**Skills:** Window functions, Agregações(SUM, AVG, COUNT), Estatística descritiva aplicada e analise de dados.
+**Tecnologias:** Power BI
 
-**Tecnologias:** SQL,Power BI
+**Resultado:** Total Geral De Vendas, Faturamento, Ticket Médio, Custo Unitário, Margem de Lucro, KPIs e entre outros.
 
-**Resultado:** Identificado que estudantes com experiência prévia de trabalho possuem salário médio ~2,1% maior; especialização em Science apresenta maior salário médio, enquanto Commerce tem maior volume de colocados; desempenho  acadêmico mais alto (1º ano, 3º ano e MBA) está associado a maior taxa de colocação no mercado e Top 10 maiores salários por gênero. Junto com um painel interativo do Power BI.
+
