@@ -21,7 +21,7 @@ Ola 👋, me chamo Filipe
 Uma seção de projetos de analise de dados onde descrevo brevemente soluções para cada situação.
 
 - Python
-  - [Give Me Some Credit — Análise de Risco de Crédito](https://github.com/once147/Projeto--Give-Me-Some-Credit-/blob/main/Banco.ipynb))
+  - [Give Me Some Credit — Análise de Risco de Crédito](https://github.com/once147/Projeto--Give-Me-Some-Credit-/blob/main/Banco.ipynb)
     
 - SQL / Power BI
   - [Campus Recruitment Analysis](https://github.com/seu-usuario/campus-recruit)
