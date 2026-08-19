@@ -29,7 +29,7 @@ Uma seção de projetos de analise de dados onde descrevo brevemente soluções 
   - [SuperStore](https://github.com/once147/SuperStore/blob/main/superStore.ipynb)
 
 - Power BI
-   -[Gerenciamento de Dados](https://sites.google.com/view/portifoliopwbi/in%C3%ADcio)
+    -[Gerenciamento de Dados](https://sites.google.com/view/portifoliopwbi/in%C3%ADcio)
     
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### SuperStore
